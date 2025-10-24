@@ -80,19 +80,19 @@
     // Dữ liệu menu
     const menuData = {
       comgaxoimo: [
-        { name: "Cơm gà góc tư", price: 50000, img: "https://i.imgur.com/BhYVvX8.jpg" },
-        { name: "Cơm gà đùi tỏi", price: 38000, img: "https://i.imgur.com/BhYVvX8.jpg" },
+        { name: "Cơm gà góc tư", price: 50000, img: "" },
+        { name: "Cơm gà đùi tỏi", price: 38000, img: "" },
         { name: "Cơm gà má đùi", price: 38000, img: "" }
       ],
       comchien: [
         { name: "Cơm chiên da gà ốp la", price: 30000, img: ""},
-        { name: "Cơm chiên xá xíu ", price: 38000, img: "https://i.imgur.com/BhYVvX8.jpg" },
-        { name: "Cơm chiên dương châu", price: 38000, img: "https://i.imgur.com/BhYVvX8.jpg" },
+        { name: "Cơm chiên xá xíu ", price: 38000, img: "" },
+        { name: "Cơm chiên dương châu", price: 38000, img: "" },
         { name: "Cơm chiên da gà", price: 18000, img: ""}
       ],
       monthem: [
-        { name: "Canh rong biển", price: 10000, img: "https://i.imgur.com/BhYVvX8.jpg" },
-        { name: "Trứng ốp la", price: 7000, img: "https://i.imgur.com/BhYVvX8.jpg" },
+        { name: "Canh rong biển", price: 10000, img: " },
+        { name: "Trứng ốp la", price: 7000, img: "" },
         { name: "Cơm thêm", price: 5000, img: ""},
         { name: "Da gà thêm", price: 10000, img: ""},
         { name: "Đùi tỏi thêm", price: 30000, img: ""},
@@ -101,8 +101,8 @@
         { name: "Xá xíu thêm", price: 30000, img: ""}
       ],
       nuoc: [
-        { name: "Pepsi", price: 12000, img: "https://i.imgur.com/BhYVvX8.jpg" },
-        { name: "OLong Tea", price: 15000, img: "https://i.imgur.com/BhYVvX8.jpg" },
+        { name: "Pepsi", price: 12000, img: "" },
+        { name: "OLong Tea", price: 15000, img: "" },
         { name: "Sting", price: 15000, img: ""},
         { name: "Cà phê đen", price: 12000, img: ""},
         { name: "Cà phê sữa", price: 15000, img: ""}
